@@ -1,6 +1,6 @@
 //Напишите программу, которая считывает символы пока не встретится точка. Также предусмотрите вывод количества пробелов.
 import java.util.Scanner;
-public class Main {
+public class JavaWarmUp000 {
     public static void main (String[] args){
         Scanner in = new Scanner(System.in);
         String s = in.nextLine();
